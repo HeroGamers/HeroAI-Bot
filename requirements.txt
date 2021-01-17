@@ -1,2 +1,4 @@
-discord.py==1.4.2
+discord.py==1.6.0
 jishaku==1.18.2.188
+peewee==3.11.2
+PyMySQL==0.9.3
